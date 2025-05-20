@@ -96,9 +96,9 @@ footer {
 
 .conteudo img {
     width: 70%;
-    max-height: 350px;
+    max-height: 200px;
     object-fit: cover;
     border-radius: 8px;
     display: block;
-    margin-top: 200px auto;
+    margin-top: 100px auto;
   }
