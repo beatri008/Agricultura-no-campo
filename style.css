@@ -73,3 +73,23 @@ ul.menu{
     
     }
 
+.fotos{
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+
+    }
+    
+.fotos img {
+  width: 100%;
+  max-width: 250px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 6px rgba(167, 0, 0, 0.795);
+}
+
+footer {
+  background-color: #922714;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
