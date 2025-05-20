@@ -95,8 +95,8 @@ footer {
 }
 
 .conteudo img {
-    width: 70%;
-    max-height: 200px;
+    width: 50%;
+    max-height: 100px;
     object-fit: cover;
     border-radius: 8px;
     display: block;
