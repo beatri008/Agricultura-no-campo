@@ -93,3 +93,12 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
+.conteudo img {
+    width: 70%;
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+    margin-top: 200px auto;
+  }
