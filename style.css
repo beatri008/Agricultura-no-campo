@@ -102,4 +102,9 @@ footer {
   display: block;
   margin: 100px auto 0;
 }
+@media (max-width: 768px) {
+  .conteudo img {
+    width: 90%;
+  }
+}
 
