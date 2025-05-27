@@ -95,12 +95,11 @@ footer {
 }
 
 .conteudo img {
-    width: 50%;
-    max-height: 100px;
-    object-fit: cover;
-    border-radius: 8px;
-    display: block;
-    margin: 100px auto 0;
-
-  }
+  width: 50%;
+  max-height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin: 100px auto 0;
+}
 
