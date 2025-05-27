@@ -106,15 +106,6 @@ nav h1 {
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Rodapé */
-footer {
-  background-color: #2e4e1e;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-  margin-top: 40px;
-}
-
 .imagem-tercearia img {
   width: 80%;
   max-width: 500px;
@@ -123,4 +114,11 @@ footer {
   border-radius: 8px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
 }
-
+/* Rodapé */
+footer {
+  background-color: #2e4e1e;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 40px;
+}
