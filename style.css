@@ -81,8 +81,8 @@ ul.menu{
     }
     
 .fotos img {
-  width: 100%;
-  max-width: 250px;
+  width: 50%;
+  max-width: 100px;
   border-radius: 8px;
   box-shadow: 2px 2px 6px rgba(167, 0, 0, 0.795);
 }
