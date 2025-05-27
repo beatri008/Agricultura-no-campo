@@ -119,3 +119,13 @@ footer {
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
 }
 
+.imagem-explicacao img {
+  width: 30%;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin: 40px auto;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+}
+
