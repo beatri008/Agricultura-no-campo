@@ -102,3 +102,12 @@ footer {
     display: block;
     margin-top: 100px auto;
   }
+
+
+  <style>
+.imagem-ajustada {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+</style>
