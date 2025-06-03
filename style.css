@@ -114,6 +114,15 @@ nav h1 {
   border-radius: 8px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
 }
+
+.imagem-quaternaria img {
+  width: 80%;
+  max-width: 500px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
 /* Rodapé */
 footer {
   background-color: #2e4e1e;
